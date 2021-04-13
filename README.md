@@ -3,7 +3,8 @@
 
 Sparks Foundation Web Development Internship Project : Basic Banking System website.
 
-It is a website where you can transfer the virtual money from one person to another and also can track about their activities
+It is a website where you can transfer the virtual money from one person to another and also can track about their activities.
+
 Languages used in this project are given below:
 
 javascript,CSS,bootstarp
